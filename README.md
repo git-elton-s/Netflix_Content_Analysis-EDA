@@ -1,4 +1,4 @@
-# Netflix Content Analysis: Comprehensive EDA
+# 🍿 Netflix Content Analysis: Comprehensive EDA
 
 This project performs a comprehensive exploratory data analysis (EDA) of the Netflix Movies and TV Shows dataset from Kaggle The project was developed entirely in Google Colab.
 The goal is to understand how Netflix builds its catalog by examining trends in content types, genres, ratings, geography, release patterns, and textual descriptions.
