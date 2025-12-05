@@ -3,8 +3,8 @@
 This project performs a comprehensive exploratory data analysis (EDA) of the Netflix Movies and TV Shows dataset from Kaggle The project was developed entirely in Google Colab.
 The goal is to understand how Netflix builds its catalog by examining trends in content types, genres, ratings, geography, release patterns, and textual descriptions.
 
-[Google Colab Notebook](https://colab.research.google.com/drive/17g3uR3aDsvkD7TdmmwqFyxDgOb23vfEc?usp=sharing)
-[Dataset Source](https://github.com/git-elton-s/Datasets/tree/main/Netflix_Titles_Dataset)
+- [Google Colab Notebook](https://colab.research.google.com/drive/17g3uR3aDsvkD7TdmmwqFyxDgOb23vfEc?usp=sharing)
+- [Dataset Source](https://github.com/git-elton-s/Datasets/tree/main/Netflix_Titles_Dataset)
 
 ## 📊 What This Project Covers
 ### 1. Data Loading & Cleaning
